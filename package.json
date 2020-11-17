@@ -46,7 +46,7 @@
     "re": "^0.1.4",
     "request": "^2.65.0",
     "split": "^1.0.0",
-    "yargs": "^3.29.0"
+    "yargs": "^16.0.0"
   },
   "devDependencies": {
     "babel": "^5.8.29",
